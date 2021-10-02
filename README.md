@@ -1,4 +1,4 @@
-# Snowbit the Coderboi
+# Snowbit
 
 ![Profile views](https://gpvc.arturio.dev/snowbit-coderboi)
 
