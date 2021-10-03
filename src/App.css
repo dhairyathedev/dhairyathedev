@@ -1,0 +1,18 @@
+body {
+  background: #222426;
+}
+
+.pfp {
+  height: 250px;
+  margin-bottom: 15px;
+  margin-top: 150px;
+}
+.name {
+  font-size: 40px;
+  font-weight: 800;
+  color: #fff;
+}
+.connections a {
+  font-size: 20px;
+  color: #bdc2c9;
+}
