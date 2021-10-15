@@ -24,7 +24,7 @@ function App() {
             rel="noreferrer noopener"
             className="text-decoration-none"
           >
-            <i class="fab fa-github-square"></i>&nbsp; Github
+            <i className="fab fa-github"></i>&nbsp; Github
           </a>{" "}
           <a
             href="https://lu.ma/u/usr-f7m6AOf4Nu0bFCP"
@@ -32,7 +32,7 @@ function App() {
             rel="noreferrer noopener"
             className="text-decoration-none"
           >
-            <i class="fas fa-link"></i>&nbsp; Lu.ma
+            <i className="fas fa-link"></i>&nbsp; Lu.ma
           </a>
         </div>
         <br />
