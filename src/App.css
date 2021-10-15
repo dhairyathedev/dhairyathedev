@@ -15,4 +15,5 @@ body {
 .connections a {
   font-size: 20px;
   color: #bdc2c9;
+  padding: 5px;
 }

@@ -24,8 +24,15 @@ function App() {
             rel="noreferrer noopener"
             className="text-decoration-none"
           >
-            Github&nbsp;
-            <i className="fab fa-github"></i>
+            <i class="fab fa-github-square"></i>&nbsp; Github
+          </a>{" "}
+          <a
+            href="https://github.com/snowbit-coderboi"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="text-decoration-none"
+          >
+            <i class="fas fa-link"></i>&nbsp; Lu.ma
           </a>
         </div>
         <br />
