@@ -1,5 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
+import useWindowSize from "react-use/lib/useWindowSize";
+import Confetti from "react-confetti";
 function App() {
   function play_on_hover() {
     const audio = new Audio("/assets/audio/hover-sound.mp3");
@@ -7,6 +9,7 @@ function App() {
     audio.volume = 0.1;
     audio.play();
   }
+  const { width, height } = useWindowSize();
   return (
     <div className="container">
       <link
@@ -14,6 +17,13 @@ function App() {
         href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
         integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
         crossOrigin="anonymous"
+      />
+      <Confetti
+        width={width}
+        height={height}
+        recycle={false}
+        numberOfPieces={1000}
+        frictio={0}
       />
       <center>
         <img
