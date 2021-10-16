@@ -17,3 +17,7 @@ body {
   color: #bdc2c9;
   padding: 5px;
 }
+
+.connections a:hover {
+  font-weight: 700;
+}
