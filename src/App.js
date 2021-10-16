@@ -1,6 +1,12 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 function App() {
+  function play_on_hover() {
+    const audio = new Audio("/assets/audio/hover-sound.mp3");
+
+    audio.volume = 0.1;
+    audio.play();
+  }
   return (
     <div className="container">
       <link
@@ -23,6 +29,7 @@ function App() {
             target="_blank"
             rel="noreferrer noopener"
             className="text-decoration-none"
+            onMouseEnter={play_on_hover}
           >
             <i className="fab fa-github"></i>&nbsp; Github
           </a>{" "}
@@ -31,6 +38,7 @@ function App() {
             target="_blank"
             rel="noreferrer noopener"
             className="text-decoration-none"
+            onMouseEnter={play_on_hover}
           >
             <i className="fab fa-twitter"></i>&nbsp; Twitter
           </a>
@@ -39,6 +47,7 @@ function App() {
             target="_blank"
             rel="noreferrer noopener"
             className="text-decoration-none"
+            onMouseEnter={play_on_hover}
           >
             <i className="fas fa-link"></i>&nbsp; Lu.ma
           </a>
