@@ -22,7 +22,7 @@ function App() {
         width={width}
         height={height}
         recycle={false}
-        numberOfPieces={1000}
+        numberOfPieces={500}
         frictio={0}
       />
       <center>
