@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SnowBit</h1>
-<h3 align="center">Landed on Earth 🌏 on 24th February (15 years old), I am always passinate to code and always loved to do that. I am glad to see you at my GitHub Profile</h3>
+<h3 align="center">Landed on Earth 🌏 on 24th February (15 years old), I am always passionate  to code and always loved to do that. I am glad to see you at my GitHub Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowbit-coderboi&label=Profile%20views&color=0e75b6&style=flat" alt="snowbit-coderboi" /> </p>
 
