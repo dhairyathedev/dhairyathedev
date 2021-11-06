@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind CSS, Express**
 
-- 📫 Check out my website **https://snowbit.vercel.app**
+- 🌐 Check out my website **https://snowbit.vercel.app**
 
 - ⚡ Fun fact or whatever you say **I am not very good in UI 🥲, Practicing lot to improve it**
 
