@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SnowBit</h1>
-<h3 align="center">I am a self-taught coder 🤗, I am passionate about Fullstack Web Development. I have learnt HTML, CSS, JAVASCRIPT, React JS and learning Express and Tailwind</h3>
+<h3 align="center">I am a self-taught coder 🤗, I am passionate about Fullstack Web Development. I have learnt HTML, CSS, JavaScript, React JS and learning Express and Tailwind</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowbit-coderboi&label=Profile%20views&color=0e75b6&style=flat" alt="snowbit-coderboi" /> </p>
 
