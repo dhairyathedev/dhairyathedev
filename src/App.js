@@ -22,7 +22,7 @@ function App() {
         width={width}
         height={height}
         recycle={false}
-        numberOfPieces={500}
+        numberOfPieces={200}
         frictio={0}
       />
       <center>
@@ -53,13 +53,13 @@ function App() {
             <i className="fab fa-twitter"></i>&nbsp; Twitter
           </a>
           <a
-            href="https://lu.ma/u/usr-f7m6AOf4Nu0bFCP"
+            href="https://snowbit-blog.vercel.app/"
             target="_blank"
             rel="noreferrer noopener"
             className="text-decoration-none"
             onMouseEnter={play_on_hover}
           >
-            <i className="fas fa-link"></i>&nbsp; Lu.ma
+            <i className="fas fa-link"></i>&nbsp; Blog
           </a>
         </div>
         <br />
