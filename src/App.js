@@ -53,7 +53,7 @@ function App() {
             <i className="fab fa-twitter"></i>&nbsp; Twitter
           </a>
           <a
-            href="https://snowbit-blog.vercel.app/"
+            href="https://dev.to/snowbit"
             target="_blank"
             rel="noreferrer noopener"
             className="text-decoration-none"
