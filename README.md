@@ -7,7 +7,6 @@
 
 - 🌐 Check out my website **https://snowbit.vercel.app**
 
-- ⚡ Fun fact or whatever you say **I am not very good in UI 🥲, Practicing lot to improve it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
