@@ -52,15 +52,6 @@ function App() {
           >
             <i className="fab fa-twitter"></i>&nbsp; Twitter
           </a>
-          <a
-            href="https://dev.to/snowbit"
-            target="_blank"
-            rel="noreferrer noopener"
-            className="text-decoration-none"
-            onMouseEnter={play_on_hover}
-          >
-            <i className="fas fa-link"></i>&nbsp; Blog
-          </a>
         </div>
         <br />
         {/* <button className="btn btn-secondary">
