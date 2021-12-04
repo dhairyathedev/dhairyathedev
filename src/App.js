@@ -52,6 +52,15 @@ function App() {
           >
             <i className="fab fa-twitter"></i>&nbsp; Twitter
           </a>
+          <a
+            href="https://www.youtube.com/channel/UCNTKqF1vhFYX_v0ERnUa1RQ"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="text-decoration-none"
+            onMouseEnter={play_on_hover}
+          >
+            <i class="fab fa-youtube"></i>&nbsp; Youtube
+          </a>
         </div>
         <br />
         {/* <button className="btn btn-secondary">
