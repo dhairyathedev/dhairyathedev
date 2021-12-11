@@ -23,3 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowbit-coderboi&" alt="snowbit-coderboi" /></p>
 
+
+![image](https://c.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif)
+
+
