@@ -44,7 +44,7 @@ function App() {
             <i className="fab fa-github"></i>&nbsp; Github
           </a>{" "}
           <a
-            href="https://twitter.com/snowbitCoderboi"
+            href="https://twitter.com/codewithsnowbit"
             target="_blank"
             rel="noreferrer noopener"
             className="text-decoration-none"
