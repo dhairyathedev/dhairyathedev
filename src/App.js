@@ -35,7 +35,7 @@ function App() {
         <br />
         <div className="connections">
           <a
-            href="https://github.com/snowbit-coderboi"
+            href="https://github.com/codewithsnowbit"
             target="_blank"
             rel="noreferrer noopener"
             className="text-decoration-none"
