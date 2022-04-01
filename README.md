@@ -7,7 +7,7 @@ Hi 👋 My name is SnowBit
 Frontend Web Developer and Blogger
 ----------------------------------
 
-I am 16 years old and some people know me as SnowBit.  I am a young passionate and self-taught frontend web developer and have an intention to become a successful developer. I usually write about JavaScript and Web Development and share some tips in the articles.
+I am 16 years old.  I am a young passionate and self-taught frontend web developer and have an intention to become a successful developer. I usually write about JavaScript and Web Development and share some tips in the articles.
 
 
 *   🌍  I'm based in India
