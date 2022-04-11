@@ -11,7 +11,7 @@ I am 16 years old.  I am a young passionate and self-taught frontend web develop
 
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Here's my blog](http://www.codewithsnowbit.hashnode.dev)
+*   🖥️  See my [blog](http://www.codewithsnowbit.hashnode.dev)
 *   ✉️  You can contact me at [Twitter (@codewithsnowbit)](https://twitter.com/codewithsnowbit)
 *   🧠  I'm learning Typescript
 
