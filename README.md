@@ -17,6 +17,7 @@ I am 16 years old.  I am a young passionate and self-taught frontend web develop
 
 ### My Projects
 - [quickScript](https://quickscript.vercel.app/)
+- [WatchTab](http://watch-tab.now.sh/)
 - [Let's Lorem Ipsum](https://letsloremipsum.vercel.app/)
 - [Slick Gradient](http://slick-gradient.vercel.app/)
 ----
