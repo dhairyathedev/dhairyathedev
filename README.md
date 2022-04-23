@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/65452005/158354356-2c44680a-9a2a-4606-9ae7-0b9e30e528dd.png)
 
 
-Hi 👋 My name is Dhairya
+Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> My name is Dhairya
 ========================
 
 Frontend Web Developer and Blogger
