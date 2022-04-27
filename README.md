@@ -22,7 +22,8 @@ I am 16 years old.  I am a young passionate and self-taught frontend web develop
 - [Let's Lorem Ipsum](https://letsloremipsum.vercel.app/)
 - [Slick Gradient](http://slick-gradient.vercel.app/)
 ----
-![Reload and try again](https://metrics.lecoq.io/codewithsnowbit?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&achievements=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta)
+![Relaod to see the magic](https://metrics.lecoq.io/codewithsnowbit?template=classic&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithsnowbit&theme=monokai)
 <!-- ![SnowBit's stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithsnowbit&theme=monokai) -->
