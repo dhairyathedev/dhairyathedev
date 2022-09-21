@@ -13,7 +13,7 @@ I am 16 years old.  I am a young passionate and self-taught frontend web develop
 *   🌍  I'm based in India
 *   🖥️  See my [blog](https://www.dhairyashah.dev/valley)
 *   ✉️  You can contact me at [Twitter (@dhairyashah_dev)](https://twitter.com/dhairyashah_dev)
-*   🧠  I'm learning Typescript and GraphQL
+*   🧠  I'm brainstorming SaaS Startup Ideas
 
 ### My Projects
 - [Wikigister](https://wikigister.vercel.app/)
