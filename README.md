@@ -15,9 +15,6 @@ I am 16 years old.  I am a young passionate and self-taught frontend web develop
 
 - 📫 How to reach me **hello@dhairyashah.dev**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
