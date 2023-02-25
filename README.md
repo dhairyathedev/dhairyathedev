@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer and Technical Writer</h3>
 
 
-I am 16 years old.  I am a young passionate and self-taught frontend web developer and have an intention to become a successful developer. I usually write about JavaScript and Web Development and share some tips in the articles.
+I am 17 years old.  I am a young passionate and self-taught frontend web developer and have an intention to become a successful developer. I usually write about JavaScript and Web Development and share some tips in the articles.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyathedev&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyathedev" /> </p>
 
