@@ -46,4 +46,7 @@ I am 17 years old.  I am a young passionate and self-taught frontend web develop
 - [Let's Lorem Ipsum](https://letsloremipsum.vercel.app/)
 - [Slick Gradient](http://slick-gradient.vercel.app/)
 
+### 3D Projects
+- [Keyboard](http://keyboard-spline.vercel.app)
+
 [![@dhairyashah's Holopin board](https://holopin.io/api/user/board?user=dhairyashah)](https://holopin.io/@dhairyashah)
