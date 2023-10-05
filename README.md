@@ -40,7 +40,6 @@ I am 17 years old.  I am a young passionate and self-taught frontend web develop
 - [linkk.sh](https://linkk-sh.vercel.app/)
 - [Wikigister](https://wikigister.vercel.app/)
 - [TweetFrame](https://tweetframe.vercel.app/)
-- [quickScript](https://quickscript.vercel.app/)
 - [mark2pdf](http://mark2pdf.vercel.app/)
 - [WatchTab](http://watch-tab.now.sh/)
 - [Let's Lorem Ipsum](https://letsloremipsum.vercel.app/)
