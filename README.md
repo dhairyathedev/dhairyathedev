@@ -1,9 +1,14 @@
 ![banner](https://user-images.githubusercontent.com/65452005/158354356-2c44680a-9a2a-4606-9ae7-0b9e30e528dd.png)
 
 <h1 align="center">Hi 👋, I'm Dhairya Shah</h1>
-<h3 align="center">A passionate frontend developer and Technical Writer</h3>
+<h3 align="center">A passionate Software Engineer and Technical Writer</h3>
 
-I am 17 years old.  I am a young passionate and self-taught frontend web developer and have an intention to become a successful developer. I usually write about JavaScript and Web Development and share some tips in the articles.
+I'm a 17-year-old; software engineer and student currently based in India. My passion lies in software development, and I'm a self-taught developer with a strong determination to become successful in this field.
+
+My interests span a wide spectrum of subjects, including web development, backend programming, machine learning, and cloud computing.
+
+From my high school years onward, I've dedicated significant time to mastering Python, exploring various web technologies, tinkering with microcontrollers, and fine-tuning both hardware and software.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyathedev&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyathedev" /> </p>
 
@@ -43,6 +48,10 @@ I am 17 years old.  I am a young passionate and self-taught frontend web develop
 - [WatchTab](http://watch-tab.now.sh/)
 - [Let's Lorem Ipsum](https://letsloremipsum.vercel.app/)
 - [Slick Gradient](http://slick-gradient.vercel.app/)
+
+### UI/UX Projects
+- Trip to Spain Landing Page: [Live Website](https://trip-to-spain-design.dhairyashah.dev/) | [Figma Design](https://www.figma.com/file/q5rbBbbrOjEs5pAEN88hzx/Landing-Page-1?type=design&node-id=0%3A1&mode=design&t=sQuvTmhuhQGItmyC-1)
+    
 
 ### 3D Projects
 - [Keyboard](http://keyboard-spline.vercel.app)
