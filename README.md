@@ -52,6 +52,7 @@ From my high school years onward, I've dedicated significant time to mastering P
 
 ### UI/UX Projects
 - Trip to Spain Landing Page: [Live Website](https://trip-to-spain-design.dhairyashah.dev/) | [Figma Design](https://www.figma.com/file/q5rbBbbrOjEs5pAEN88hzx/Landing-Page-1?type=design&node-id=0%3A1&mode=design&t=sQuvTmhuhQGItmyC-1)
+- Monochrome Simple Login Page: [Live Website](http://login-page-monochrome.dhairyashah.dev/)
     
 
 ### 3D Projects
