@@ -24,7 +24,7 @@ From my high school years onward, I've dedicated significant time to mastering P
 
 - E-mail: <a href="mailto:hello@dhairyashah.dev">hello@dhairyashah.dev</a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 
 - 🐙 Git
 - ⚡️JavaScript
