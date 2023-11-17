@@ -42,6 +42,7 @@ From my high school years onward, I've dedicated significant time to mastering P
 ### My Projects
 
 - [glook](https://glook.dhairyashah.dev/)
+- [Auth Burst](https://authburst.dhairyashah.dev/)
 - [linkk.sh](https://linkk-sh.vercel.app/)
 - [Wikigister](https://wikigister.vercel.app/)
 - [mark2pdf](http://mark2pdf.vercel.app/)
