@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dhairya Shah</h1>
 <h3 align="center">A passionate Software Engineer and Technical Writer</h3>
 
-I'm a 17-year-old; software engineer and student currently based in India. My passion lies in software development, and I'm a self-taught developer with a strong determination to become successful in this field.
+I'm a 18-year-old; software engineer and student currently based in India. My passion lies in software development, and I'm a self-taught developer with a strong determination to become successful in this field.
 
 My interests span a wide spectrum of subjects, including web development, backend programming, machine learning, and cloud computing.
 
