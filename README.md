@@ -28,6 +28,7 @@ From my high school years onward, I've dedicated significant time to mastering P
 
 - 🐙 Git
 - ⚡️JavaScript
+- 🔒 TypeScript
 - 🐍 Python
 - ⚛️ React
 - 🙀 Next.js
