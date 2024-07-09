@@ -43,6 +43,7 @@ From my high school years onward, I've dedicated significant time to mastering P
 ### My Projects
 
 - [glook](https://glook.dhairyashah.dev/)
+- [githost](https://githost.xyz)
 - [Auth Burst](https://authburst.dhairyashah.dev/)
 - [linkk.sh](https://linkk-sh.vercel.app/)
 - [Wikigister](https://wikigister.vercel.app/)
