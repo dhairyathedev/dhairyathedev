@@ -39,6 +39,7 @@ From my high school years onward, I've dedicated significant time to mastering P
 - 🤓 Linux
 - ☁️ Cloud
 - 🤘 Rust
+- 🐳 Docker
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhairyathedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhairyathedev" /></a></p><br><br> -->
